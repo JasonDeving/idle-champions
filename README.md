@@ -2,7 +2,7 @@
 
 This bot automates clicking on enemies in the game using computer vision and mouse automation. It detects enemies on the screen and clicks on them multiple times to ensure they are "killed".
 [Watch it here](https://www.youtube.com/shorts/vr0rJGXgs_k)
-
+[Buy it here](https://5123653385506.gumroad.com/l/igirc)
 
 ## Requirements
 
