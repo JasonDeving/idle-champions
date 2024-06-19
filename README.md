@@ -57,3 +57,5 @@ To run the bot, use the following command:
 ```sh
 python bot.py
 ```
+Download is below. You have to buy it from GumRoad.
+[Buy it here](https://5123653385506.gumroad.com/l/igirc)
